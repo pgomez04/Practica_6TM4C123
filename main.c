@@ -1,3 +1,4 @@
+//Practica 6
 #include "lib/include.h"
 uint16_t Result[2];
 uint16_t duty[2];
